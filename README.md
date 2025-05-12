@@ -1,2 +1,3 @@
 # cscore
-Audio library for linux similar to NAudio
+
+Audio library for linux similar to NAudio.
